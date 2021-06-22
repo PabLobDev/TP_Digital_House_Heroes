@@ -1,0 +1,16 @@
+.blanco{
+    color:white;
+}
+
+#fondo{
+    background-image: url('https://fondosmil.com/fondo/14377.jpg');
+    background-size: cover;
+
+}
+
+p {
+    color:white;
+}
+a{
+    color: yellowgreen;
+}
